@@ -22,7 +22,7 @@ pipeline {
 				echo 'building..😍'
 			}
 			success {
-	            echo 'success..❤'
+	            echo 'success..❤❤'
 			}
 			failure {
 	            echo 'failure....🤦‍♂️'
